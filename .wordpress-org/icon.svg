@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="512px" height="512px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 512 512"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+<defs>
+<style type="text/css">
+<![CDATA[
+.spp-fil2 {fill:#FEFEFE}
+.spp-fil3 {fill:#EBECEC}
+.spp-fil0 {fill:#9D04D0}
+.spp-fil1 {fill:url(#spp-id2);fill-rule:nonzero}
+]]>
+</style>
+<mask id="spp-id0">
+<linearGradient id="spp-id1" gradientUnits="userSpaceOnUse" x1="298.03" y1="915.49" x2="158.95" y2="94.16">
+<stop offset="0" style="stop-opacity:1; stop-color:white"/>
+<stop offset="1" style="stop-opacity:0; stop-color:white"/>
+</linearGradient>
+<rect style="fill:url(#spp-id1)" x="120.24" y="120.24" width="271.52" height="271.52"/>
+</mask>
+<linearGradient id="spp-id2" gradientUnits="userSpaceOnUse" x1="351.61" y1="351.45" x2="483.04" y2="482.88">
+<stop offset="0" style="stop-opacity:1; stop-color:#CCCCCC"/>
+<stop offset="1" style="stop-opacity:1; stop-color:white"/>
+</linearGradient>
+</defs>
+<polygon class="spp-fil0" points="0,0 512,0 512,512 0,512 "/>
+<path class="spp-fil1" d="M474.43 512l-105.28 -105.28c-31.52,23.67 -70.7,37.71 -113.15,37.71 -52.07,0 -99.22,-21.12 -133.34,-55.25 -34.13,-34.12 -55.25,-81.27 -55.25,-133.34 0,-52.08 21.12,-99.22 55.25,-133.35 34.12,-34.12 81.27,-55.24 133.34,-55.24 52.08,0 99.22,21.12 133.35,55.24 34.12,34.13 55.24,81.27 55.24,133.35 0,42.45 -14.04,81.62 -37.7,113.15l105.11 105.1 0 37.91 -37.57 0zm-122.82 -351.77c-24.46,-24.47 -58.26,-39.61 -95.61,-39.61 -37.34,0 -71.15,15.14 -95.61,39.61 -24.46,24.46 -39.6,58.26 -39.6,95.61 0,37.34 15.14,71.15 39.6,95.61 24.46,24.46 58.27,39.6 95.61,39.6 37.35,0 71.15,-15.14 95.61,-39.6 24.46,-24.46 39.61,-58.27 39.61,-95.61 0,-37.35 -15.15,-71.15 -39.61,-95.61z"/>
+<path class="spp-fil2" d="M256 67.25c-104.24,0 -188.75,84.51 -188.75,188.75 0,104.24 84.51,188.75 188.75,188.75 104.24,0 188.75,-84.51 188.75,-188.75 0,-104.24 -84.51,-188.75 -188.75,-188.75zm0 47.37c-78.08,0 -141.37,63.3 -141.37,141.38 0,78.08 63.29,141.37 141.37,141.37 78.08,0 141.37,-63.29 141.37,-141.37 0,-78.08 -63.29,-141.38 -141.37,-141.38z"/>
+<path class="spp-fil3" d="M256 114.62c-78.08,0 -141.37,63.3 -141.37,141.38 0,78.08 63.29,141.37 141.37,141.37 78.08,0 141.37,-63.29 141.37,-141.37 0,-78.08 -63.29,-141.38 -141.37,-141.38zm0 6.12c-74.7,0 -135.26,60.56 -135.26,135.26 0,74.7 60.56,135.26 135.26,135.26 74.7,0 135.26,-60.56 135.26,-135.26 0,-74.7 -60.56,-135.26 -135.26,-135.26z"/>
+<path class="spp-fil2" style="mask:url(#spp-id0)" d="M256 120.74c-74.7,0 -135.26,60.56 -135.26,135.26 0,74.7 60.56,135.26 135.26,135.26 74.7,0 135.26,-60.56 135.26,-135.26 0,-74.7 -60.56,-135.26 -135.26,-135.26z"/>
+</svg>

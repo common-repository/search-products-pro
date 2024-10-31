@@ -1,0 +1,4 @@
+*** Search Products PRO Changelog ***
+
+2020-12-12 - version 1.0.0
+* Initial release
